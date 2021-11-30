@@ -13,7 +13,6 @@
             "hash": "58013158d4b8f8906feb5875a861f910fcc41236acde8d94f899f26581151b7e"
         }
     },
-    "pre_install": "scoop config MSIEXTRACT_USE_LESSMSI True",
     "extract_dir": "ojdkbuild\\java-1.8.0-openjdk-1.8.0.312-1",
     "env_add_path": "bin",
     "env_set": {

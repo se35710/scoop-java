@@ -9,7 +9,6 @@
             "hash": "37e5393e00520bd479aa408d0f6e82c22f981ca02b8b5eeb9057b67fb1cceb92"
         }
     },
-    "pre_install": "scoop config MSIEXTRACT_USE_LESSMSI True",
     "extract_dir": "ojdkbuild\\java-13-openjdk-13.0.3-1",
     "env_add_path": "bin",
     "env_set": {
